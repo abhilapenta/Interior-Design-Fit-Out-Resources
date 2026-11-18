@@ -48,11 +48,3 @@ Visit the [Spacewell Interiors project portfolio](https://spacewellinteriors.com
 ## Our Design Philosophy
 We believe successful interior spaces should do more than look impressive. They should communicate identity, support people and improve the way businesses operate.
 By combining thoughtful planning, creative direction and practical execution, Spacewell Interiors works towards creating spaces that remain functional and relevant.
-
-## Connect With Spacewell Interiors
-Explore our interior design and fit-out solutions:
-
-Website: [https://spacewellinteriors.com/](https://spacewellinteriors.com/)
-
-Location: Level 43 - Al Khaleej Al Tejari 1 St - Business Bay - Dubai - United Arab Emirates
-
