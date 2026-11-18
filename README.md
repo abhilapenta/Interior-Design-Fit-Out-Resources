@@ -23,27 +23,27 @@ Our project experience includes corporate offices, commercial environments, hosp
 
 ## Our Project Approach
 
-### Understanding the Vision
+#### Understanding the Vision
 
 Identifying project objectives, functional requirements and design expectations.
 
-### Concept and Space Planning
+#### Concept and Space Planning
 
 Developing interior concepts, layouts, material selections and design directions.
 
-### Design Development
+#### Design Development
 Refining the proposed interiors with practical and aesthetic considerations.
 
-### Fit-Out and Execution
+#### Fit-Out and Execution
 Coordinating the implementation process and maintaining attention to project details.
 
-### Project Completion
+#### Project Completion
 Bringing the design vision to life through a completed, functional interior environment.
 
 ## Explore Our Projects
 
 Discover how different design concepts translate into real-world interior environments.
-Visit the Spacewell Interiors project portfolio to explore completed work and design inspiration.
+Visit the [Spacewell Interiors project portfolio](https://spacewellinteriors.com/projects) to explore completed work and design inspiration.
 
 ## Our Design Philosophy
 We believe successful interior spaces should do more than look impressive. They should communicate identity, support people and improve the way businesses operate.
@@ -51,6 +51,8 @@ By combining thoughtful planning, creative direction and practical execution, Sp
 
 ## Connect With Spacewell Interiors
 Explore our interior design and fit-out solutions:
+
 Website: [https://spacewellinteriors.com/](https://spacewellinteriors.com/)
-Location: United Arab Emirates
+
+Location: Level 43 - Al Khaleej Al Tejari 1 St - Business Bay - Dubai - United Arab Emirates
 
